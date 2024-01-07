@@ -1,2 +1,6 @@
-# NightSkySimulation
- Small simulation of night sky with JavaFX canvas
+# <h1 align="center"> Night Sky Simulation</h1>
+
+# <h2 align="center">Small simulation of night sky with JavaFX canvas</h2>
+
+<p align="center"> You can see some stars blinking and falling meteors randomly</p>
+<img src="https://private-user-images.githubusercontent.com/75155192/294777470-a0d6d330-7994-41ba-aa54-b0361dc5f528.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ2NTIxNDUsIm5iZiI6MTcwNDY1MTg0NSwicGF0aCI6Ii83NTE1NTE5Mi8yOTQ3Nzc0NzAtYTBkNmQzMzAtNzk5NC00MWJhLWFhNTQtYjAzNjFkYzVmNTI4Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTA3VDE4MjQwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ3NDNlZDNiN2M5ZWQzY2U5MzMxMmFiNjFlMWNlNmM5MTc0ZmM4MjAxNWUwMjhlMDM1YmJhN2YzMzFkYjJkZTImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.6ntlMIxo6QUIg4bdm5lA0cRf8meyZNWvfLDFAOBTdfU">
